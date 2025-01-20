@@ -1,0 +1,21 @@
+COMMON_RISK_FACTORS = [
+    "Smoking", "Diabetes", "Hypertension", "Heart Disease", "Obesity",
+    "Asthma", "Cancer", "Immunocompromised", "Pregnancy", "Elderly",
+    "Lung Disease", "Kidney Disease", "Liver Disease", "Alcohol Use Disorder",
+    "Drug Abuse", "Chronic Stress", "High Cholesterol", "Malnutrition",
+    "Autoimmune Disorders", "HIV/AIDS", "Chronic Pain", "Physical Inactivity",
+    "Poor Hygiene", "Frequent Travel", "Exposure to Pollutants",
+    "Family History of Disease", "Occupational Hazards", "Allergies",
+    "Neurological Disorders", "Mental Health Conditions", "Sleep Apnea",
+    "Anemia", "Thyroid Disorders", "Recent Surgery", "Chemotherapy",
+    "Radiation Therapy", "Genetic Disorders", "Prolonged Medication Use",
+    "Frequent Infections", "Rheumatoid Arthritis", "Psoriasis",
+    "Celiac Disease", "Crohn's Disease", "Ulcerative Colitis",
+    "Sickle Cell Disease", "Multiple Sclerosis", "Parkinson's Disease",
+    "Dementia", "Tuberculosis Exposure", "Vaccination History",
+    "Geographic Residence", "Vitamin Deficiencies", "Heavy Metal Exposure",
+    "Organ Transplantation", "Chronic Fatigue Syndrome", "Polypharmacy",
+    "Workplace Stress", "Low Socioeconomic Status", "Homelessness",
+    "Food Insecurity", "Substandard Housing", "Frequent Antibiotic Use",
+    "Chronic Ear Infections", "Frequent Hospital Visits", "Seasonal Allergies"
+]
